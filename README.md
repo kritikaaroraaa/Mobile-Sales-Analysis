@@ -1,4 +1,5 @@
 📱 Mobile Sales Dashboard – Power BI Project
+
 A comprehensive and visually engaging Sales Dashboard developed using Power BI, showcasing real-time insights into the performance of multiple mobile phone brands across various cities in India.
 
 This dashboard leverages DAX calculations, interactive slicers, custom visualizations, and dynamic filters to provide a deep dive into key sales metrics like revenue, quantity, customer ratings, and transaction behavior.
