@@ -1,12 +1,9 @@
 📱 Mobile Sales Dashboard – Power BI Project
-
 A comprehensive and visually engaging Sales Dashboard developed using Power BI, showcasing real-time insights into the performance of multiple mobile phone brands across various cities in India.
 
 This dashboard leverages DAX calculations, interactive slicers, custom visualizations, and dynamic filters to provide a deep dive into key sales metrics like revenue, quantity, customer ratings, and transaction behavior.
 
 Dashboard Screenshot
-<img width="1240" height="703" alt="image" src="https://github.com/user-attachments/assets/27f50d97-6902-4f38-8ab8-05049695b5a1" />
-
 
 🚀 Key Highlights
 📍 Geo-visualization of Sales by City
@@ -38,7 +35,6 @@ Cleaned the dataset using Power Query (removed nulls, duplicates, and fixed type
 Built a star schema with dimension and fact tables.
 Added a custom Date Table for time intelligence.
 Created relationships between sales, brands, and time.
-
 3. DAX Measures
 Created custom measures:
 Total Sales
@@ -47,14 +43,12 @@ Transaction Count
 Average Price
 Star Rating Levels
 Used calculated columns for time-based filtering and visuals.
-
 4. Visualization & Design
 Used charts like:
 Map for regional sales
 Funnel for customer feedback
 Bar, Pie, Line charts for trend & performance insights
 Included interactive slicers for filtering by time, brand, and model.
-
 5. Optimization
 Implemented performance-enhancing DAX practices
 Enabled user tooltips, drill-through, and slicer sync
@@ -65,7 +59,6 @@ Ensured responsive layout and fast rendering
 💼 Total Transactions: 4,000
 💰 Average Price per Unit: ₹40K
 🌍 Top Cities: Delhi, Bangalore, Mumbai, Lucknow
-
 🛠️ Tools & Techniques Used
 Power BI Desktop
 DAX (Data Analysis Expressions)
@@ -74,7 +67,6 @@ Card KPIs, Pie Chart, Line & Bar Charts, Maps
 Custom Visuals & Themes
 Slicers for advanced filtering
 Data Transformation & Modeling
-
 💼 Use Case
 This dashboard can be used by:
 
@@ -82,14 +74,12 @@ This dashboard can be used by:
 🔹 Sales Executives to monitor trends and boost conversions
 🔹 Product Teams to track customer satisfaction and model popularity
 🔹 Finance & Strategy Teams for data-driven forecasting and planning
-
 💡 Insights & Analysis
 Apple leads in total sales with ₹161.6M, followed by Samsung and OnePlus.
 Saturday is the top-performing day for sales volume.
 UPI and Debit Card payments dominate with over 50% of all transactions.
 High sales observed in Delhi, Mumbai, Bangalore, and Hyderabad.
 Majority of customer feedback falls in the 4-5 star range, indicating positive satisfaction.
-
 ✅ Final Outcome
 An interactive, visually intuitive dashboard that empowers business stakeholders to:
 
