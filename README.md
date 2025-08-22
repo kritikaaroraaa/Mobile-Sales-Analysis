@@ -6,7 +6,7 @@ A comprehensive and visually engaging **Sales Dashboard** developed using **Powe
 This dashboard leverages **DAX calculations**, interactive **slicers**, custom **visualizations**, and **dynamic filters** to provide a deep dive into key sales metrics like revenue, quantity, customer ratings, and transaction behavior.
 
 ---
-![Dashboard Screenshot]
+
 <img width="1240" height="703" alt="image" src="https://github.com/user-attachments/assets/bac1795d-bf82-4ed5-853c-1450562472b0" />
 
 ## 🚀 Key Highlights
