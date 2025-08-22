@@ -5,6 +5,8 @@ A comprehensive and visually engaging Sales Dashboard developed using Power BI, 
 This dashboard leverages DAX calculations, interactive slicers, custom visualizations, and dynamic filters to provide a deep dive into key sales metrics like revenue, quantity, customer ratings, and transaction behavior.
 
 Dashboard Screenshot
+<img width="1240" height="703" alt="image" src="https://github.com/user-attachments/assets/27f50d97-6902-4f38-8ab8-05049695b5a1" />
+
 
 🚀 Key Highlights
 📍 Geo-visualization of Sales by City
